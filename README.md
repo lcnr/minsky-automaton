@@ -1,0 +1,3 @@
+# Minsky-automaton
+
+ok, thx
