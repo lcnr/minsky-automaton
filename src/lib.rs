@@ -6,6 +6,7 @@ pub enum Instruction {
     Purged,
 }
 
+
 pub struct Program {
     registers: [u64; 1 << 8],
     instructions: [Instruction; 1 << 16],
